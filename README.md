@@ -10,7 +10,7 @@
 ![Status](https://img.shields.io/badge/Status-In%20Progress-FFD700?style=for-the-badge)
 ![University](https://img.shields.io/badge/UOL-Fall%202026-8B0000?style=for-the-badge)
 
-**Course:** CS-13410 Introduction to Machine Learning | Fall 2026
+**Course:** Introduction to Machine Learning | Fall 2026
 **University:** University of Lahore
 **Group Members:**
 - Naeem Akmal ([@NaeemAkmal](https://github.com/NaeemAkmal))
