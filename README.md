@@ -24,8 +24,8 @@
 
 ## Progress
 
-- [x] Part 1 — Data Preparation & Pipeline *(submitted 08-10-2026)*
-- [ ] Part 2 — Supervised Learning Baseline *(due 05-11-2026)*
-- [ ] Part 3 — Ensembles & Hyperparameter Optimisation *(due 19-11-2026)*
-- [ ] Part 4 — Neural Network & Unsupervised Learning *(due 17-12-2026)*
-- [ ] Part 5 — Final Integration & Viva *(Week 16)*
+- [x] Part 1 — Data Preparation & Pipeline
+- [ ] Part 2 — Supervised Learning Baseline
+- [ ] Part 3 — Ensembles & Hyperparameter Optimisation
+- [ ] Part 4 — Neural Network & Unsupervised Learning
+- [ ] Part 5 — Final Integration & Viva
